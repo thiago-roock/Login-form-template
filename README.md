@@ -1,4 +1,4 @@
-[![RD Banner](https://remediosdemaispodcast.com.br/Imagens/banner01.png "RD Banner")](https://remediosdemaispodcast.com.br/ "RD Banner")
+[![RD Banner](https://login.remediosdemaispodcast.com.br/Imagens/banner01.png "RD Banner")](https://remediosdemaispodcast.com.br/ "RD Banner")
 
 # O Remédios Demais Podcast
 Um podcast ímpar para receber amigos, pessoas legais e você. Decidimos tudo de última hora, quase sempre 🤪
