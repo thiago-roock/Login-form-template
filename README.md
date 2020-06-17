@@ -1,4 +1,6 @@
 
+<img src="https://www.code-inspector.com/project/9665/score/svg"></img>
+
 # O Remédios Demais Podcast
 Um podcast ímpar para receber amigos, pessoas legais e você. Decidimos tudo de última hora, quase sempre 🤪
 
