@@ -1,4 +1,4 @@
 language: csharp
-solution: RdPodcastingWeb.sln
+solution: Login form template.sln
 mono:
   - latest
