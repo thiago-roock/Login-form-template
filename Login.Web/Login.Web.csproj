@@ -131,6 +131,8 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Imagens\arms-extended-on-white-background-4557400.jpg" />
+    <Content Include="Imagens\banner01.png" />
     <Content Include="Imagens\banner04.png" />
     <Content Include="Imagens\login.jpg" />
     <Content Include="Web.config" />

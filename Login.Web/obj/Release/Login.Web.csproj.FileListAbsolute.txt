@@ -83,3 +83,4 @@ C:\Users\thiag\Documents\GitHub\Login form template\Login.Web\obj\Release\Login.
 C:\Users\thiag\Documents\GitHub\Login form template\Login.Web\obj\Release\Login.Web.csproj.CopyComplete
 C:\Users\thiag\Documents\GitHub\Login form template\Login.Web\obj\Release\Login.Web.dll
 C:\Users\thiag\Documents\GitHub\Login form template\Login.Web\obj\Release\Login.Web.pdb
+C:\Users\thiag\Documents\GitHub\Login form template\Login.Web\obj\Release\Login.Web.csprojAssemblyReference.cache
